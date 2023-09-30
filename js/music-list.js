@@ -46,6 +46,78 @@ let allMusic = [
     img: "scopin",
     src: "scopin"
   },
+    {
+    name: "Freestyle - Big Rocky",
+    artist: "Big Rocky",
+    img: "freestyle",
+    src: "freestyle"
+  },
+  {
+    name: "Wig Split - Kordhell",
+    artist: "Kordhell",
+    img: "wigsplit",
+    src: "wigsplit"
+  },
+  {
+    name: "DOWNFALL",
+    artist: "",
+    img: "downfall",
+    src: "downfall"
+  },
+  {
+    name: "METAMORPHOSIS",
+    artist: "INTERWORLD",
+    img: "metamorphosis",
+    src: "metamorphosis"
+  },
+  {
+    name: "RAVE - Dxrk",
+    artist: "Dxrk",
+    img: "rave",
+    src: "rave"
+  },
+  {
+    name: "GigaChad Theme",
+    artist: "GigaChad",
+    img: "gigachad",
+    src: "gigachad"
+  },
+  {
+    name: "WORTH NOTHING",
+    artist: "Denial",
+    img: "worthnothing",
+    src: "worthnothing"
+  },
+  {
+    name: "MUCHUCA MUCHUCA",
+    artist: "MC KRANKEN",
+    img: "muchuca",
+    src: "muchuca"
+  },
+  {
+    name: "Come as you Phonk",
+    artist: "lofi'chield",
+    img: "comeasyouphonk",
+    src: "comeasyouphonk"
+  },
+  {
+    name: "DARKSIDE",
+    artist: "CHMCL SOUP",
+    img: "darkside",
+    src: "darkside"
+  },
+  {
+    name: "ANUBIS",
+    artist: "KUTE & RAIZHELL",
+    img: "anubis",
+    src: "anubis"
+  },
+  {
+    name: "MUDD",
+    artist: "$werve, Grioten & Day$okee",
+    img: "mudd",
+    src: "mudd"
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
